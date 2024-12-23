@@ -25,7 +25,7 @@ Dental Assist is an AI-powered application designed to provide personalized oral
   Provides actionable and easy-to-follow daily tips for better oral health.
 
 
-### Accessing the App
+## Accessing the App
 
 You can access Dental Assist through the following link:
 
@@ -34,7 +34,7 @@ You can access Dental Assist through the following link:
 
 ## Snapshot
 
-![Dental Assist Screenshot](images/dental-assist-screenshot.png)
+![Dental Assist Screenshot](dental-assist-screenshot.png)
 *Caption: Home screen of Dental Assist.*
 
 
